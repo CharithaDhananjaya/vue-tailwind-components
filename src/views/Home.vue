@@ -1,7 +1,7 @@
 <template>
-  <img alt="Vue logo" src="../assets/logo.png" />
-  <p>Developed By Charitha</p>
-  <HelloWorld></HelloWorld>
+  <div class="container mx-auto px-8 items-center">
+    <HelloWorld></HelloWorld>
+  </div>
 </template>
 
 <script>

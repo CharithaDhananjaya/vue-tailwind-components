@@ -1,14 +1,9 @@
 <template>
-  <span class="inline-grid grid-cols-3 gap-x-4">
-    <span>1</span>
-    <span>1</span>
-    <span>1</span>
-  </span>
-  <span class="inline-grid grid-cols-3 gap-x-4">
-    <span>2</span>
-    <span>2</span>
-    <span>2</span>
-  </span>
+  <button
+    class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+  >
+    Charitha
+  </button>
 </template>
 
 <script>
