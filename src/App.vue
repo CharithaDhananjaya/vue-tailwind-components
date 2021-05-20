@@ -1,15 +1,18 @@
 <template>
-  <div class="container mx-auto">
-    <div class="flex flex-row-reverse py-2 gap-4">
-      <a href="/Cards">
-        <span class="font-sans text-lg font-semibold text-green-700"
-          >Cards</span
-        >
-      </a>
+  <header class="bg-blue-600">
+    <div class="flex justify-center">
+      <span class="font-sans text-lg font-semibold text-white"
+        >VueJS + Tailwind Components</span
+      >
+    </div>
+    <div class="flex justify-center gap-4 mr-6">
       <a href="/">
-        <span class="font-sans text-lg font-semibold text-green-700">Home</span>
+        <span class="font-sans text-sm text-white">Home</span>
+      </a>
+      <a href="/Cards">
+        <span class="font-sans text-sm text-white">Cards</span>
       </a>
     </div>
-  </div>
+  </header>
   <router-view />
 </template>
