@@ -164,6 +164,8 @@
           </linearGradient>
         </defs>
       </svg>
+    </div>
+    <div class="relative justify-center items-center">
       <div class="flex justify-center">
         <span class="font-sans text-lg font-semibold text-white"
           >VueJS + Tailwind Components</span
