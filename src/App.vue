@@ -164,6 +164,8 @@
           </linearGradient>
         </defs>
       </svg>
+    </div>
+    <div class="relative justify-center items-center">
       <div class="flex justify-center">
         <span class="font-sans text-lg font-semibold text-white"
           >VueJS + Tailwind Components</span
@@ -175,6 +177,9 @@
         </a>
         <a href="/Cards">
           <span class="font-sans text-sm text-white">Cards</span>
+        </a>
+        <a href="/ECommPage">
+          <span class="font-sans text-sm text-white">E Commerce Page</span>
         </a>
       </div>
     </div>
