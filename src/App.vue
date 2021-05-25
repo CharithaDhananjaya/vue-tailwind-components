@@ -176,6 +176,9 @@
         <a href="/Cards">
           <span class="font-sans text-sm text-white">Cards</span>
         </a>
+        <a href="/ECommPage">
+          <span class="font-sans text-sm text-white">E Commerce Page</span>
+        </a>
       </div>
     </div>
   </div>
