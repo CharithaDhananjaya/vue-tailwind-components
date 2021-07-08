@@ -2,7 +2,7 @@
   <div class="container mx-auto">
     <div class="grid grid-cols-3 p-4 gap-4">
       <div class="grid grid-cols-2 gap-4">
-        <p>EComm Page</p>
+        <p>EComm Page testing</p>
         <MyButton class="row-span-2"></MyButton>
       </div>
     </div>
